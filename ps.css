@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url("./backk.jpg");
+}
+
+h1 {
+  text-align: center;
+  font-size: 50px;
+  color: #39311d;
+  filter: brightness(10px);
+}
+.view-row-schemes {
+  font-size: 30px;
+  font-family: "Raleway", sans-serif;
+  margin-left: 100px;
+}
+img {
+  /* float: left; */
+  height: 60vh;
+  width: 1250px;
+  height: 200px;
+  /* margin-left: 125px; */
+  /* align-items: center; */
+}
+.govt {
+  float: right;
+  width: 40%;
+  height: 600px;
+  margin-right: 20px;
+  position:relative;
+  top:20px;
+}
+h2 {
+  font-family: "Varela Round", sans-serif;
+  font-size: 40px;
+  color: #39311d;
+  text-align: center;
+}
+p {
+  font-family: "Raleway", sans-serif;
+  font-size: 25px;
+  text-align: left;
+}
+h1{
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+hr{
+  border-style: none ;
+  border-top-style: dashed;
+  height: 0px;
+  border-color:  lightgrey;
+  border-width:2px;
+    width: 5%;
+    margin: 50px auto;
+}
